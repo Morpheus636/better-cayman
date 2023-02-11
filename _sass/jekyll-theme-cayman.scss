@@ -124,6 +124,16 @@ a {
   }
 }
 
+.site-logo {
+  float: left
+}
+img.site-logo {
+  max-width: 40px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+}
+
 .site-nav {
   padding-bottom: 2rem;
   text-align: right;
