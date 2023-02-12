@@ -125,8 +125,9 @@ a {
   }
 }
 
-.site-logo {
-  float: left
+a.site-logo {
+  float: left;
+  display: block;
 }
 img.logo {
   max-width: 200px;
@@ -149,6 +150,7 @@ a.page-link {
 }
 
 .project-name {
+  clear: both;
   margin-top: 0;
   margin-bottom: 0.1rem;
 
