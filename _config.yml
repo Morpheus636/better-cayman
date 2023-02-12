@@ -1,10 +1,7 @@
 title: Better Cayman Jekyll Theme
 email: morpheus636@morpheus636.com
 description: "Better Cayman is a simple theme for Jekyll"
-logo: 
-  show: true
-  href: "https://morpheus636.github.io/"
-  url: "https://raw.githubusercontent.com/Morpheus636/branding/b88d6c0c84aff41de86205cd3d5899cab0c797ab/circle-m.svg"
+logo: "https://raw.githubusercontent.com/Morpheus636/branding/b88d6c0c84aff41de86205cd3d5899cab0c797ab/circle-m.svg"
 
 # Build settings
 markdown: kramdown
