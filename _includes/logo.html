@@ -2,4 +2,8 @@
   <a href="/" class="site-logo">
     <img src="{{ site.logo }}" class="logo"/>
   </a>
+{% else %}
+  <a href="/" class="site-logo">
+    {{ site.title }}
+  </a>
 {% endif %}

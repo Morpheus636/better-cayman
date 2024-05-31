@@ -117,6 +117,8 @@ a {
 a.site-logo {
   float: left;
   display: block;
+  color: $header-heading-color;
+  font-family: "Open Sans";
 }
 img.logo {
   max-width: 200px;
@@ -133,7 +135,6 @@ a.page-link {
   color: $header-heading-color;
   padding-left: 10px;
   padding-right: 10px;
-  font-size: 1.25rem;
   font-family: "Open Sans";
 }
 
